@@ -8,3 +8,5 @@
 
 ## 💻 Langages les plus utilisés
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigoRz-c&layout=compact&theme=radical)
+
+![Visiteurs](https://komarev.com/ghpvc/?username=vigoRz-c&color=blue)
