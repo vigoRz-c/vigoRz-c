@@ -1,7 +1,7 @@
 # welcome to my GitHub profile!  
 
 This is the part where people usually brag about their awesome projects…  
-Well, not me. My repos are basically empty, and my C++ skills could make you blind.  
+Well, not me. My repos are basically empty, and my C++ skills could make you become blind.  
 Enjoy those things!
 
 ## GitHub Stats
