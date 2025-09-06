@@ -1,8 +1,8 @@
 # welcome to my GitHub profile!  
 
 This is the part where people usually brag about their awesome projects…  
-Well, not me. My repos are basically empty, and my C++ skills could crash a toaster.  
-Enjoy the chaos!
+Well, not me. My repos are basically empty, and my C++ skills could make you blind.  
+Enjoy those things!
 
 ## GitHub Stats
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=vigoRz-c&show_icons=true&theme=radical)
