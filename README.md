@@ -1,7 +1,7 @@
 # welcome to my GitHub profile!  
 
 This is the part where people usually brag about their awesome projects…  
-Well, I finally have one. My C++ skills could still make you become blind, though.
+Well, I finally have one. My C++ skills could still make you go blind.
 
 ## ⭐ Featured project: Sillon
 
