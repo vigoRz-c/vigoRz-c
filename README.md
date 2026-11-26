@@ -24,13 +24,13 @@ Well, I finally have one. My C++ skills could still make you become blind, thoug
   </tr>
 </table>
 
-- 🎨 11 visualizers and 8 color sets (including colors taken from the cover or your wallpaper)
-- 🎤 Synced karaoke lyrics, "now playing" panel and "Up next" queue
-- 🖥️ Full-screen mode (**Ctrl + Alt + F**) and a screen saver that locks your session (**Ctrl + Alt + L**)
-- 🎮 Discreet: pauses during full-screen games or videos, hides when there's no music
-- 🔓 No account needed, in English or French
+-  11 visualizers and 8 color sets (including colors taken from the cover or your wallpaper)
+-  Synced karaoke lyrics, "now playing" panel and "Up next" queue
+-  Full-screen mode (**Ctrl + Alt + F**) and a screen saver that locks your session (**Ctrl + Alt + L**)
+-  Discreet: pauses during full-screen games or videos, hides when there's no music
+-  No account needed, in English or French
 
-**[⬇️ Download the latest version](https://github.com/vigoRz-c/sillon/releases/latest)** · [See the repo](https://github.com/vigoRz-c/sillon) · Built with Electron + Rust
+**[ Download the latest version](https://github.com/vigoRz-c/sillon/releases/latest)** · [See the repo](https://github.com/vigoRz-c/sillon) · Built with Electron + Rust
 
 > Sillon is in beta: found a bug or have an idea? Open an issue or ping me on Discord: **`_vigorz_`**
 
